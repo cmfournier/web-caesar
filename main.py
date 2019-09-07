@@ -31,9 +31,7 @@ caesar_form = """
         <label for="rot">Rotate by:</label>
         <input name="rot" type="text" value=0 />
         <input type="submit" />
-        <textarea name="text"/>
-        {0}
-        </textarea>
+        <textarea name="text" />{0}</textarea>
         
       </form>
     </body>
